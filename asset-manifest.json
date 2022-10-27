@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/tadtech/static/css/main.cf4c262e.css",
+    "main.js": "/tadtech/static/js/main.aa6d7f31.js",
+    "static/js/787.83242ea9.chunk.js": "/tadtech/static/js/787.83242ea9.chunk.js",
+    "static/media/background.png": "/tadtech/static/media/background.940d86c0639ac369b75d.png",
+    "static/media/bg2.png": "/tadtech/static/media/bg2.6936e1a6a46e5d213076.png",
+    "static/media/bg-course.png": "/tadtech/static/media/bg-course.2ef5cb225995636e28b8.png",
+    "static/media/header.png": "/tadtech/static/media/header.b815c48678fab374436b.png",
+    "static/media/pexels.png": "/tadtech/static/media/pexels.40cf3cd806573656fc09.png",
+    "static/media/cyber.png": "/tadtech/static/media/cyber.86e1641dc8f281b9187a.png",
+    "static/media/laptop.png": "/tadtech/static/media/laptop.d2f8d7eac9e14226e3b8.png",
+    "static/media/group.png": "/tadtech/static/media/group.0c0eb59c0201de7058c0.png",
+    "static/media/artificial.png": "/tadtech/static/media/artificial.17a36cc638b7951440bf.png",
+    "static/media/bgg.png": "/tadtech/static/media/bgg.2806479d4728853b4c26.png",
+    "static/media/blog1.png": "/tadtech/static/media/blog1.e514365d79f01749b85e.png",
+    "static/media/webdev.png": "/tadtech/static/media/webdev.e514365d79f01749b85e.png",
+    "static/media/preview.png": "/tadtech/static/media/preview.f4314ee9600f024ffaa5.png",
+    "static/media/rec7.png": "/tadtech/static/media/rec7.7787982cf5da5aa630b1.png",
+    "static/media/new.png": "/tadtech/static/media/new.b17108e932aa6187f699.png",
+    "static/media/cert.png": "/tadtech/static/media/cert.2b59f55fa17bd313e086.png",
+    "index.html": "/tadtech/index.html",
+    "static/media/curve.svg": "/tadtech/static/media/curve.2e1bd7e075cf40331e237c4b3e221111.svg",
+    "main.cf4c262e.css.map": "/tadtech/static/css/main.cf4c262e.css.map",
+    "main.aa6d7f31.js.map": "/tadtech/static/js/main.aa6d7f31.js.map",
+    "787.83242ea9.chunk.js.map": "/tadtech/static/js/787.83242ea9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf4c262e.css",
+    "static/js/main.aa6d7f31.js"
+  ]
+}
