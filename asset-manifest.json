@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tadtech/static/css/main.cf4c262e.css",
-    "main.js": "/tadtech/static/js/main.aa6d7f31.js",
+    "main.js": "/tadtech/static/js/main.ae26a523.js",
     "static/js/787.83242ea9.chunk.js": "/tadtech/static/js/787.83242ea9.chunk.js",
     "static/media/background.png": "/tadtech/static/media/background.940d86c0639ac369b75d.png",
     "static/media/bg2.png": "/tadtech/static/media/bg2.6936e1a6a46e5d213076.png",
@@ -22,11 +22,11 @@
     "index.html": "/tadtech/index.html",
     "static/media/curve.svg": "/tadtech/static/media/curve.2e1bd7e075cf40331e237c4b3e221111.svg",
     "main.cf4c262e.css.map": "/tadtech/static/css/main.cf4c262e.css.map",
-    "main.aa6d7f31.js.map": "/tadtech/static/js/main.aa6d7f31.js.map",
+    "main.ae26a523.js.map": "/tadtech/static/js/main.ae26a523.js.map",
     "787.83242ea9.chunk.js.map": "/tadtech/static/js/787.83242ea9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf4c262e.css",
-    "static/js/main.aa6d7f31.js"
+    "static/js/main.ae26a523.js"
   ]
 }
