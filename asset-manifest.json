@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/tadtech/static/css/main.cf4c262e.css",
-    "main.js": "/tadtech/static/js/main.ae26a523.js",
+    "main.css": "/tadtech/static/css/main.7fcf015e.css",
+    "main.js": "/tadtech/static/js/main.669c47fa.js",
     "static/js/787.83242ea9.chunk.js": "/tadtech/static/js/787.83242ea9.chunk.js",
+    "static/media/web3.jpg": "/tadtech/static/media/web3.6c13e205a131782d526b.jpg",
     "static/media/background.png": "/tadtech/static/media/background.940d86c0639ac369b75d.png",
     "static/media/bg2.png": "/tadtech/static/media/bg2.6936e1a6a46e5d213076.png",
     "static/media/bg-course.png": "/tadtech/static/media/bg-course.2ef5cb225995636e28b8.png",
@@ -21,12 +22,12 @@
     "static/media/cert.png": "/tadtech/static/media/cert.2b59f55fa17bd313e086.png",
     "index.html": "/tadtech/index.html",
     "static/media/curve.svg": "/tadtech/static/media/curve.2e1bd7e075cf40331e237c4b3e221111.svg",
-    "main.cf4c262e.css.map": "/tadtech/static/css/main.cf4c262e.css.map",
-    "main.ae26a523.js.map": "/tadtech/static/js/main.ae26a523.js.map",
+    "main.7fcf015e.css.map": "/tadtech/static/css/main.7fcf015e.css.map",
+    "main.669c47fa.js.map": "/tadtech/static/js/main.669c47fa.js.map",
     "787.83242ea9.chunk.js.map": "/tadtech/static/js/787.83242ea9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf4c262e.css",
-    "static/js/main.ae26a523.js"
+    "static/css/main.7fcf015e.css",
+    "static/js/main.669c47fa.js"
   ]
 }
