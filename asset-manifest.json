@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tadtech/static/css/main.7fcf015e.css",
-    "main.js": "/tadtech/static/js/main.669c47fa.js",
+    "main.css": "/tadtech/static/css/main.4429df61.css",
+    "main.js": "/tadtech/static/js/main.44b8fc98.js",
     "static/js/787.83242ea9.chunk.js": "/tadtech/static/js/787.83242ea9.chunk.js",
     "static/media/web3.jpg": "/tadtech/static/media/web3.6c13e205a131782d526b.jpg",
     "static/media/background.png": "/tadtech/static/media/background.940d86c0639ac369b75d.png",
@@ -12,6 +12,7 @@
     "static/media/cyber.png": "/tadtech/static/media/cyber.86e1641dc8f281b9187a.png",
     "static/media/laptop.png": "/tadtech/static/media/laptop.d2f8d7eac9e14226e3b8.png",
     "static/media/group.png": "/tadtech/static/media/group.0c0eb59c0201de7058c0.png",
+    "static/media/bg-service.png": "/tadtech/static/media/bg-service.1501829a42a7346df27b.png",
     "static/media/artificial.png": "/tadtech/static/media/artificial.17a36cc638b7951440bf.png",
     "static/media/bgg.png": "/tadtech/static/media/bgg.2806479d4728853b4c26.png",
     "static/media/blog1.png": "/tadtech/static/media/blog1.e514365d79f01749b85e.png",
@@ -22,12 +23,12 @@
     "static/media/cert.png": "/tadtech/static/media/cert.2b59f55fa17bd313e086.png",
     "index.html": "/tadtech/index.html",
     "static/media/curve.svg": "/tadtech/static/media/curve.2e1bd7e075cf40331e237c4b3e221111.svg",
-    "main.7fcf015e.css.map": "/tadtech/static/css/main.7fcf015e.css.map",
-    "main.669c47fa.js.map": "/tadtech/static/js/main.669c47fa.js.map",
+    "main.4429df61.css.map": "/tadtech/static/css/main.4429df61.css.map",
+    "main.44b8fc98.js.map": "/tadtech/static/js/main.44b8fc98.js.map",
     "787.83242ea9.chunk.js.map": "/tadtech/static/js/787.83242ea9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fcf015e.css",
-    "static/js/main.669c47fa.js"
+    "static/css/main.4429df61.css",
+    "static/js/main.44b8fc98.js"
   ]
 }
