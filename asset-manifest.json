@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tadtech/static/css/main.822d3b8d.css",
-    "main.js": "/tadtech/static/js/main.64fe4ec1.js",
+    "main.css": "/tadtech/static/css/main.620bfa33.css",
+    "main.js": "/tadtech/static/js/main.35590200.js",
     "static/js/787.b1f88cb2.chunk.js": "/tadtech/static/js/787.b1f88cb2.chunk.js",
     "static/media/web3.jpg": "/tadtech/static/media/web3.6c13e205a131782d526b.jpg",
     "static/media/background.png": "/tadtech/static/media/background.940d86c0639ac369b75d.png",
@@ -47,12 +47,12 @@
     "static/media/step4.png": "/tadtech/static/media/step4.fc99c0ddc85e988a0e97.png",
     "index.html": "/tadtech/index.html",
     "static/media/curve.svg": "/tadtech/static/media/curve.2e1bd7e075cf40331e237c4b3e221111.svg",
-    "main.822d3b8d.css.map": "/tadtech/static/css/main.822d3b8d.css.map",
-    "main.64fe4ec1.js.map": "/tadtech/static/js/main.64fe4ec1.js.map",
+    "main.620bfa33.css.map": "/tadtech/static/css/main.620bfa33.css.map",
+    "main.35590200.js.map": "/tadtech/static/js/main.35590200.js.map",
     "787.b1f88cb2.chunk.js.map": "/tadtech/static/js/787.b1f88cb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.822d3b8d.css",
-    "static/js/main.64fe4ec1.js"
+    "static/css/main.620bfa33.css",
+    "static/js/main.35590200.js"
   ]
 }
