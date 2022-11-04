@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tadtech/static/css/main.620bfa33.css",
-    "main.js": "/tadtech/static/js/main.35590200.js",
+    "main.css": "/tadtech/static/css/main.4ca99278.css",
+    "main.js": "/tadtech/static/js/main.87c792a1.js",
     "static/js/787.b1f88cb2.chunk.js": "/tadtech/static/js/787.b1f88cb2.chunk.js",
     "static/media/web3.jpg": "/tadtech/static/media/web3.6c13e205a131782d526b.jpg",
     "static/media/background.png": "/tadtech/static/media/background.940d86c0639ac369b75d.png",
@@ -11,15 +11,18 @@
     "static/media/bg.png": "/tadtech/static/media/bg.b57dac12700494da9a27.png",
     "static/media/header.png": "/tadtech/static/media/header.b815c48678fab374436b.png",
     "static/media/pexels.png": "/tadtech/static/media/pexels.40cf3cd806573656fc09.png",
+    "static/media/member3.png": "/tadtech/static/media/member3.908eae7cd4b518af6bf9.png",
     "static/media/rec25.png": "/tadtech/static/media/rec25.6f9420aab85615b1690c.png",
     "static/media/gdesign.png": "/tadtech/static/media/gdesign.59c2521c39eec517878d.png",
     "static/media/laptop.png": "/tadtech/static/media/laptop.d2f8d7eac9e14226e3b8.png",
     "static/media/group.png": "/tadtech/static/media/group.0c0eb59c0201de7058c0.png",
+    "static/media/member1.png": "/tadtech/static/media/member1.b07130d8aae806f428ee.png",
     "static/media/software.png": "/tadtech/static/media/software.e85d128438289f5af559.png",
     "static/media/bg-service.png": "/tadtech/static/media/bg-service.1501829a42a7346df27b.png",
     "static/media/webdev.png": "/tadtech/static/media/webdev.fc6394951ce2ed13771b.png",
     "static/media/design.png": "/tadtech/static/media/design.9052b25f6f31b20c79e9.png",
     "static/media/cyber.png": "/tadtech/static/media/cyber.7e629d653d5f089c6435.png",
+    "static/media/member2.png": "/tadtech/static/media/member2.445452870c7e16566229.png",
     "static/media/diploma.png": "/tadtech/static/media/diploma.a5c3261f31b261e25adb.png",
     "static/media/androidcourse.png": "/tadtech/static/media/androidcourse.452e009bd77cd3ec7801.png",
     "static/media/database.png": "/tadtech/static/media/database.1213fc6e259b5884ef71.png",
@@ -47,12 +50,12 @@
     "static/media/step4.png": "/tadtech/static/media/step4.fc99c0ddc85e988a0e97.png",
     "index.html": "/tadtech/index.html",
     "static/media/curve.svg": "/tadtech/static/media/curve.2e1bd7e075cf40331e237c4b3e221111.svg",
-    "main.620bfa33.css.map": "/tadtech/static/css/main.620bfa33.css.map",
-    "main.35590200.js.map": "/tadtech/static/js/main.35590200.js.map",
+    "main.4ca99278.css.map": "/tadtech/static/css/main.4ca99278.css.map",
+    "main.87c792a1.js.map": "/tadtech/static/js/main.87c792a1.js.map",
     "787.b1f88cb2.chunk.js.map": "/tadtech/static/js/787.b1f88cb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.620bfa33.css",
-    "static/js/main.35590200.js"
+    "static/css/main.4ca99278.css",
+    "static/js/main.87c792a1.js"
   ]
 }
